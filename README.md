@@ -1,2 +1,5 @@
-# FacebookPokeBot
-Just open up and run this script using Shift + F4 in Firefox
+# Facebook Poke Bot
+In Firefox
+1) Shift + F4
+2) Paste script.js
+3) Click Run
